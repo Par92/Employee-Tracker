@@ -20,9 +20,11 @@
   ## Usage
   
   Application in started by typing "node server.js" in the console. When the application is started, the user is presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role. If view all departments, view all roles, or view all employees is selected, the user is presented with a table showing all of the information from those tables. If add a department, add a role, or add an employee is selected, the user is presented with prompts to insert those values and this information is updated in the database. If update employee role is selected, the user is prompted to select an employee to update and their new role and this information is updated in the database. The following video shows an example of the application being used from the command line:
-
-
   
+
+https://user-images.githubusercontent.com/97469705/159070925-87b110fd-c867-4436-9497-93a5aa2b41b8.mp4
+
+
 
 
   ## License
